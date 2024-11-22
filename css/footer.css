@@ -1,0 +1,117 @@
+.footer-top {
+  display: flex;
+  justify-content: space-between;
+  margin-right: 64px;
+}
+.footer-top-right {
+  padding-top: 80px;
+}
+.foter {
+  background-color: #ffe6d2;
+}
+.main-nav {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+
+  a {
+    font-weight: 600;
+    color: #232536;
+  }
+}
+.services-nav {
+  li:first-child {
+    color: #232536;
+    font-weight: 600;
+    margin-bottom: 13px;
+  }
+  a {
+    color: #000;
+  }
+}
+.resourses-nav {
+  li:first-child {
+    color: #232536;
+    font-weight: 600;
+    margin-bottom: 12px;
+  }
+  a {
+    color: #000;
+  }
+}
+.footer-navs {
+  display: flex;
+  gap: 61px;
+}
+.footer-btn-wrapper {
+  display: flex;
+  justify-content: flex-end;
+}
+.footer-navs {
+  margin-bottom: 92px;
+}
+.footer-top-tittle {
+  font-size: 48px;
+  font-weight: 600;
+  line-height: 58px;
+  padding-bottom: 40px;
+}
+.footer-top-slogan {
+  font-size: 24px;
+  font-weight: 600;
+  padding-bottom: 28px;
+}
+.footer-top-mobile {
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 500;
+  a {
+    color: #232536;
+    &:hover {
+      color: cyan;
+    }
+  }
+}
+.footer-top-devider {
+  width: 286px;
+}
+.site-address {
+  padding-bottom: 14px;
+  color: #232536;
+}
+.footer-top-email {
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 500;
+  a {
+    color: #232536;
+    &:hover {
+      color: cyan;
+    }
+  }
+  padding-bottom: 14px;
+}
+.-logo-image {
+  padding-left: 10px;
+  padding-top: 28;
+  padding-bottom: 28;
+}
+.footer-container {
+  display: flex;
+  padding-top: 30px;
+  padding-bottom: 26px;
+  align-items: center;
+}
+.logo-text- {
+  padding-bottom: 26;
+  padding-top: 30;
+  align-items: center;
+  padding-left: 42px;
+}
+.footer-list {
+  display: flex;
+  padding-left: 853px;
+}
+.footer-item {
+  padding-right: 27px;
+}

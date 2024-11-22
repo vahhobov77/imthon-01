@@ -1,0 +1,40 @@
+.header {
+  background-color: #232536;
+}
+.header-container {
+  display: inline-flex;
+  align-items: center;
+  width: 100%;
+  max-width: 1380px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.header-btn {
+  color: #ffd3af;
+}
+
+.sitenav-list {
+  display: flex;
+  gap: 33px;
+  padding-left: 360px;
+}
+.site-logo {
+  display: block;
+  margin-right: auto;
+  padding-left: 160px;
+  width: 122px;
+}
+.sitenev-link {
+  color: rgb(255, 255, 255, 60%);
+  opacity: 60%;
+  padding-top: 28px;
+  padding-bottom: 28px;
+  font-weight: 500;
+  line-height: 24px;
+}
+.sitenev-link:active {
+  border-top: 3px solid #ffa155;
+  color: #ffffff;
+}

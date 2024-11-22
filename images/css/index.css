@@ -1,0 +1,75 @@
+.main-logo {
+  opacity: 60%;
+  color: black;
+  margin-left: 90px;
+  margin-top: 152px;
+  margin-bottom: 24px;
+}
+.main-top {
+  background-color: #232536;
+}
+.top {
+  display: flex;
+}
+.main-top-tittle {
+  color: #ffffff;
+  font-weight: 600;
+  font-family: url(../fonts/poppins-v21-latin-600.woff2);
+  font-size: 56px;
+  line-height: 68px;
+  width: 624px;
+  height: 204px;
+  margin-left: 90px;
+  margin-bottom: 24px;
+}
+.main-top-text {
+  color: #ffffff;
+  opacity: 60%;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: url(../fonts/poppins-v21-latin-regular.woff2);
+  width: 528px;
+  height: 48px;
+  margin-left: 90px;
+  margin-bottom: 32px;
+}
+.btn-primary {
+  margin-left: 90px;
+  margin-bottom: 188px;
+}
+.hom jamoa {
+  margin-left: 109px;
+  margin-bottom: 32px;
+  margin-right: 184px;
+}
+.devider {
+  height: 0;
+  color: rgba(131, 128, 128, 0.6);
+}
+.kichik-rasm {
+  margin-top: 530px;
+}
+.katta-rasm {
+  margin-bottom: 312px;
+  margin-right: 160px;
+}
+.logo {
+  display: flex;
+  width: 100px;
+  
+}
+text-1 {
+  color: #ffffff;
+}
+.logo-1 {
+  color: #ffffff;
+  opacity: 60%;
+  margin-left: 90px;
+}
+.log0-2 {
+  color: #ffff;
+  margin-left: 90px;
+  font-weight: 500;
+  line-height: 28px;
+}

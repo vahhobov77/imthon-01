@@ -1,0 +1,127 @@
+@import "../../../css/global.css";
+
+.main-image-top {
+  margin-left: 160px;
+  margin-top: 96px;
+}
+.main-image-top-2 {
+  margin-top: 96px;
+  padding-left: 1000px;
+}
+.tittle {
+  color: black;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 58px;
+  font-family: url(../../../fonts/poppins-v21-latin-600.woff2);
+  width: 729px;
+  height: 116px;
+  margin-left: 160px;
+  margin-bottom: 24px;
+}
+.name {
+  padding-left: 160px;
+  font-weight: 400;
+}
+.data {
+  color: rgba(35, 37, 54, 60%);
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  font-family: url(../../../fonts/poppins-v21-latin-regular.woff2);
+}
+.name- {
+  display: flex;
+  gap: 32px;
+  align-items: center;
+  margin-bottom: 96px;
+}
+.names {
+  align-items: center;
+}
+.paragraph {
+  font-weight: 400;
+  line-height: 24px;
+  font-size: 16px;
+  font-family: url(../../../fonts/poppins-v21-latin-regular.woff2);
+  color: rgba(35, 37, 54, 87%);
+  width: 624px;
+  height: 72px;
+  margin-left: 160px;
+  margin-bottom: 24px;
+}
+.slogan {
+  font-family: url(../../../fonts/poppins-v21-latin-600.woff2);
+  font-weight: 600;
+  line-height: 54px;
+  font-size: 36px;
+  margin-left: 250px;
+  width: 842px;
+  height: 108px;
+  color: #232536;
+  margin-bottom: 24px;
+}
+.main-tittles {
+  font-weight: 600;
+  font-size: 24px;
+  font-family: url(../../../fonts/poppins-v21-latin-600.woff2);
+  line-height: 36px;
+  margin-left: 250px;
+  margin-bottom: 24px;
+}
+.main-texts {
+  margin-left: 250px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: url(../../../fonts/poppins-v21-latin-regular.woff2);
+  color: #232536;
+  margin-bottom: 24px;
+}
+.reklama-tittle {
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 54px;
+  font-family: url(../../../fonts/poppins-v21-latin-600.woff2);
+  color: #ffffff;
+  margin-left: 98px;
+  width: 488px;
+  height: 108px;
+  padding-bottom: 96px;
+}
+.reklama-news {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 29px;
+  letter-spacing: 3px;
+  color: #ffffff;
+  margin-left: 98px;
+  padding-bottom: 13px;
+}
+.left {
+  padding-bottom: 96px;
+}
+.reklama {
+  background-color: #666dff;
+  margin: 160px;
+}
+.reklama {
+  display: flex;
+}
+.cta-form {
+  padding-top: 150px;
+  padding-left: 122px;
+  padding-right: 29px;
+}
+.cta-input:focus {
+  outline: none;
+}
+.cta-input {
+  padding: 20px 29px;
+  font-family: url(../../../fonts/poppins-v21-latin-500.woff2);
+  font-weight: 500;
+}
+.cta-input::placeholder {
+  color: #232536;
+  opacity: 40%;
+}
